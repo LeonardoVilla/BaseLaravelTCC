@@ -1,0 +1,1 @@
+<footer>&copy; todos os direito reservados</footer>
